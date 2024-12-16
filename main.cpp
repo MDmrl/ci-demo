@@ -20,7 +20,7 @@ int main() {
 
     weather.getWeatherData(latLahaina, lonLahaina);
     presenter.displayWeather(weather.getWeatherInfo(), "Lahaina, Hawaii");
-
+    {
     // // Sunnyvale, California - coordinates
     // double latSunnyvale = 37.3688;
     // double lonSunnyvale = -122.0363;
