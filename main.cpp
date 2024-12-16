@@ -28,6 +28,7 @@ int main() {
     // weather.getWeatherData(latSunnyvale, lonSunnyvale);
     // presenter.displayWeather(weather.getWeatherInfo(), "Sunnyvale, California");
     //Hallo ich bin Muhammed
+    //Hallo MAxe
 
     return 0;
 }
